@@ -1,0 +1,21 @@
+
+{"intents": [
+        {
+                "tag": "color",
+                "patterns": ["Tell me a color", "What's your favorite color?", "Color?"],
+                "responses": ["I like the color blue.", "Red is a nice color.", "Colors are fascinating!"]
+            },
+            {
+                "tag": "song",
+                "patterns": ["Sing me a song", "Favorite song?", "Song?"],
+                "responses": ["I'm not a great singer, but here's a song: La la la!", "Music is wonderful, isn't it?", "I enjoy listening to songs."]
+            },
+            {
+                "tag": "animal",
+                "patterns": ["Tell me about an animal", "Favorite animal?", "Animal?"],
+                "responses": ["I like cats. They're cute and independent.", "Dogs are loyal and friendly animals.", "Animals in nature are fascinating!"]
+            }
+        
+         
+   ]
+}
